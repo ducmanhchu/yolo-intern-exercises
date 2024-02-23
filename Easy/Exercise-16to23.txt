@@ -1,0 +1,12 @@
+Ex16: ((1<3) && (2<4) || (11<25 || 16> 21)) && true -> true
+Ex17: (((5<6) || (4<2)) && (21<20 && 13 < 11)) && false -> false
+Ex18: ((true && false) || (false && false)) && (false || true) -> false
+Ex19: ((true || false) && (true || false)) || (true && false) -> true
+Ex20: !(!(true || false) && (!true && false)) && (true && !false) -> true
+Ex21:
+    i++ là ta thực hiện các biến đổi với giá trị i trước sau cùng ta mới tăng giá trị của i thêm 1 đơn vị
+    ++i là ta tăng giá trị của i lên một đơn vị trước rồi sau đó mới thực hiện các biến đổi trên i
+Ex22:
+    Rơi vào vòng lặp vô tận vì i không bao giờ đạt được điều kiện dừng (i sẽ luôn nhỏ hơn 10)
+Ex 23:
+    Trả về giá trị 16
