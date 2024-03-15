@@ -1,0 +1,6 @@
+Ex 19: total = 3
+Ex 20:
+- Stack (Ngăn xếp) là một cấu trúc dữ liệu lưu trữ các giá trị có cùng kiểu và được lưu trữ theo quy tắc "Last In - First Out" để truy cập và thêm dữ liệu 
+tức là phần tử được thêm vào sau cùng sẽ được lấy ra trước khi cần và lần lượt như vậy.
+- Queue (Hàng đợi) cũng là một cấu trúc dữ liệu tương tự stack nhưng khác biệt ở chỗ nó lưu trữ theo quy tắc "First In - First Out" để truy cập và thêm dữ liệu
+tức là phần tử được lưu vào trước sẽ được lấy ra trước khi cần và lần lượt như vậy.
